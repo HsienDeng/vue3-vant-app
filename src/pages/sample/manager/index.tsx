@@ -1,6 +1,6 @@
 import { Collapse, CollapseItem, Tab, Tabs, Watermark } from 'vant';
 import { defineComponent, onMounted, ref } from 'vue';
-import { setDocTitle } from '@/utils/document';
+import { setDocTitle } from '@/utils/utils';
 
 import './styled.less';
 

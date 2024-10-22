@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "amfe-flexible": "^2.2.1",
-    "axios": "^1.7.2",
+    "axios": "^1.7.7",
     "pinia": "^2.1.7",
     "vant": "^4.9.1",
     "vue": "^3.4.29",
@@ -39,5 +39,8 @@
     "unplugin-vue-components": "^0.27.2",
     "vite": "^5.3.1",
     "vue-tsc": "^2.0.21"
+  },
+  "volta": {
+    "node": "20.18.0"
   }
 }
